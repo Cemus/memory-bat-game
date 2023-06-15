@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "image": "barbastelle"
+  },
+  {
+    "id": 1,
+    "image": "grand-murin"
+  },
+  {
+    "id": 2,
+    "image": "grand-rhino"
+  },
+  {
+    "id": 3,
+    "image": "grande-noctule"
+  },
+  {
+    "id": 4,
+    "image": "molosse"
+  },
+  {
+    "id": 5,
+    "image": "murin-bechstein"
+  },
+  {
+    "id": 6,
+    "image": "murin-brandt"
+  },
+  {
+    "id": 7,
+    "image": "murin-cryptique"
+  },
+  {
+    "id": 8,
+    "image": "murin-daubenton"
+  },
+  {
+    "id": 9,
+    "image": "murin-leisler"
+  },
+  {
+    "id": 10,
+    "image": "murin-maghreb"
+  },
+  {
+    "id": 11,
+    "image": "murin-moustaches"
+  },
+  {
+    "id": 12,
+    "image": "murin-natterer"
+  },
+  {
+    "id": 13,
+    "image": "murin-oe"
+  },
+  {
+    "id": 14,
+    "image": "myotis"
+  },
+  {
+    "id": 15,
+    "image": "oreillard-gris"
+  },
+  {
+    "id": 16,
+    "image": "oreillard-montagnard"
+  },
+  {
+    "id": 17,
+    "image": "pip"
+  },
+  {
+    "id": 18,
+    "image": "schreibers"
+  },
+  {
+    "id": 19,
+    "image": "sero"
+  }
+]
